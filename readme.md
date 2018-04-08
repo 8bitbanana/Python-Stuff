@@ -41,10 +41,10 @@ A script that takes your Google location history (which you can download from <h
 The main script
 
 ### main_multi.py
-Like the main script, but outputs multiple maps in chronological order so you can make a nice gif of it
+Like the main script, but outputs multiple maps in chronological order so you can make a nice gif of it.
 
 ## newgrounds_dl
-Downloads all the music that a specified newgrounds artist made. I wrote this because I was annoyed that some of Waterflame's music that I liked wasn't on Spotify, but as soon as I finished it he announced a new album so I never actually used it :P
+Downloads all the music that a specified newgrounds artist made. I wrote this because I was annoyed that some of Waterflame's music that I liked wasn't on Spotify, but as soon as I finished it he announced a new album so I never actually used it.
 
 ### main.py
 The main script
