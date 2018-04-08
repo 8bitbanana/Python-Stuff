@@ -1,0 +1,15 @@
+python
+c
+lua
+javascript
+BASIC
+html
+binary
+scratch
+ruby
+java
+assembly
+wolfram
+[desc]
+PROGRAMMING
+A list of different programming languages. By Ethan Crooks

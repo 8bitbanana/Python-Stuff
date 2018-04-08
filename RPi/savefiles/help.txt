@@ -1,0 +1,128 @@
+### HANGMAN HELP ###
+--------------------
+MAIN MENU NAVIGATION
+--------------------
+When you start up Hangman, you will be prompted
+to type a number.
+1 will start the game
+2 will access the game options
+3 will show credits
+4 will access help and
+5 will exit
+Any other input and you will be prompted to
+type a number again.
+[*]
+-------------------
+SETTINGS NAVIGATION
+-------------------
+Type 2 in the main menu to access settings.
+You will, again, be prompted to type a number
+1 will change the difficulty
+2 will change the wordfile directory
+3 will change the player select settings
+4 will take you to the main menu
+Any other input and you will be prompted to
+type the number again.
+[*]
+---------------------------
+PLAYING THE GAME (1 PLAYER)
+---------------------------
+This game is based on the classic game of
+Hamgman, which is usually played with pen
+and paper. Unfortunatly, modern life came
+along and spawned this computerised version.
+Anyway, here are the basic rules of Hangman.
+
+To play, type 1 in the main menu, and then
+type 1 in the number of players menu.
+
+You get given a random word out of a list.
+You won't see that word though, you'll see
+something like this:   -----
+The word is hidden. However, you have to try
+and guess the word by suggesting letters. Like
+this:
+
+-----
+Lives remaining - 14
+ Guess a letter or whole word - 
+[type in letter a]
+--a--
+Lives remaining - 14
+ Guess a letter or whole word - a
+[type in letter c]
+c-a--
+Lives remaining - 14
+ Guess a letter or whole word - c
+[*]
+As well as suggesting letters, you can go
+for the whole word as well:
+
+[type in word 'coach']
+c-a--
+Lives remaining - 14
+ Guess a letter or whole word - coach
+
+You win!
+
+And thats about it. In some word files there
+can be 100s of words to play, so good luck!
+[*]
+---------------------------
+PLAYING THE GAME (2 PLAYER)
+---------------------------
+You can also battle against your friends!
+This is like the normal game, but your
+opponent types in the word to play, and
+you have to guess it!
+
+To access 2 player play, type 1 in the main
+menu and then type 2 in the number of players
+menu.
+
+The player selection will be based on the
+player select settings. (see "Settings")
+It will either let you choose who guesses,
+picks it randomly or alternates the players.
+
+First, the guessing player should leave the
+room and the other player should type in the
+word. The screen will be cleared. Then the
+guessing player should return, and then
+plays hangman! If he guesses the word, then
+he/she wins. If he/she runs out of lives,
+the other player wins!
+[*]
+--------
+SETTINGS
+--------
+There are various settings in this game. You
+can access the settings by typing 2 into the
+main menu.
+
+DIFFICULTY
+The first setting is the difficulty. There are
+3 difficulties, all which change the amount of
+lives you start with. There's 1, or easy, which
+gives you 14 lives. There's 2, or normal, which
+gives you the hangman standard of 10 lives. And
+then there is 3, or hard, giving you only 7 lives
+to work with.
+[*]
+WORDFILE DIRECTORY
+This game can accept customised "word files". They
+are simple text files with different hangman words
+for you to play with. Add a custom work file into
+the "wordfiles" folder. To select a file, just click
+this setting and select the number that is displayed
+next to your file in the settings.
+
+PLAYER SELECT SETTINGS
+You can also change how a player is selected in the
+2 player mode. Type 1 to choose which player is
+selected, type 2 for it to be random, or type 3 for
+it to alternate with each game.
+[*]
+That is the Hangman help. Enjoy the game!
+.
+.

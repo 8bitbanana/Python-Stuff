@@ -1,0 +1,11 @@
+jam
+cheese
+peanutbutter
+butter
+honey
+marmite
+ham
+tuna
+[desc]
+SANDWICH
+A list of things you would find in a sandwich

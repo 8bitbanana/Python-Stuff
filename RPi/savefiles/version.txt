@@ -1,0 +1,5 @@
+VERSION HISTORY
+
+[1.3]
+Improved word file selection.
+Added version history.
